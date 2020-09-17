@@ -3,12 +3,10 @@
 
 I'm Djamel, currently working @Qonto a neobank for SMEs and freelancers, [we're hiring here!](https://jobs.lever.co/qonto?lever-via=PpZMqxIGRP)
 
-Front-end engineer, EmberJS enthusiast and former at 42 french school.<br>
+Front-end engineer, EmberJS enthusiast and former at [« école 42 »](https://www.42.fr/).<br>
 Currently working on Qonto's design system.
 
-You can find me in several places:
-- [StackOverFlow](https://stackoverflow.com/users/6156142/djamel)
-- [LinkedIn](https://www.linkedin.com/in/djamel-b/)
+You can find me on [StackOverFlow](https://stackoverflow.com/users/6156142/djamel), [LinkedIn](https://www.linkedin.com/in/djamel-b/)
 and of course, on Github!
 
 
